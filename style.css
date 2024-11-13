@@ -1,14 +1,14 @@
 .Shrek {
     font-family: Arial, Helvetica, sans-serif;
     background-color: greenyellow;
-    background-image: url(../OIP.jpg);
+    background-image: url(OIP.jpg);
     text-align: center;
     text-decoration: underline;
     color: greenyellow;
 }
 
 .text {
-    background-image: url(../OIP.jpg);
+    background-image: url(OIP.jpg);
     font-size: 5em;
     text-shadow: 10px 300px 2px rgb(91, 148, 26);
     color: greenyellow;
